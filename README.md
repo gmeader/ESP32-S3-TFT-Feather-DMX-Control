@@ -11,3 +11,4 @@ Plug these together and upload the code using the Arduino IDE
 * in the Tools, Manage Libraries, install the "Sparkfun DMX Shield Library"
 
 * Put the 4 source code files in a folder names "DMX_Controller" on your dev computer
+<img src="IMG.jpeg" alt="Descriptive Alt Text" width="500">
