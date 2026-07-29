@@ -2,9 +2,9 @@
 Use a Adafruit ESP32-S3 TFT Feather with Sparkfun ESP32 Thing Plus DMX to LED Shield and Adafruit I2C Stemma QT Rotary Encoder Breakout with Encoder to transmit physical DMX
 
 you need three parts:
-1. Adafruit ESP32-S3 TFT Feather
-2. Sparkfun ESP32 Thing Plus DMX to LED Shield
-3. Adafruit I2C Stemma QT Rotary Encoder Breakout with Encoder
+1. Adafruit ESP32-S3 TFT Feather https://www.adafruit.com/product/5483
+2. Sparkfun ESP32 Thing Plus DMX to LED Shield https://www.sparkfun.com/sparkfun-esp32-thing-plus-dmx-to-led-shield.html
+3. Adafruit I2C Stemma QT Rotary Encoder Breakout with Encoder https://www.adafruit.com/product/5880
 
 Plug these together and upload the code using the Arduino IDE
 * In the IDE, set the Board (in Tools menu) to "Adafruit Feather ESP-32 S3 TFT"
